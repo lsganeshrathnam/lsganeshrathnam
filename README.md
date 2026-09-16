@@ -4,7 +4,7 @@ AI/ML engineer based in Tempe, Arizona. I finished my **M.S. in Robotics and
 Autonomous Systems (Artificial Intelligence)** at **Arizona State University** in
 May 2026, and I hold a B.Tech in Artificial Intelligence and Data Science.
 
-I currently work as a software / AI engineering intern at **Augment AI Labs**,
+I currently work as a AI engineer intern at **Augment AI Labs**,
 where I build automated testing infrastructure and event-driven backend features
 for a production Flutter application.
 
