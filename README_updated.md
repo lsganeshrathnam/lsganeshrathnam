@@ -95,6 +95,6 @@ I'm currently authorized to work in the United States on post-completion OPT. A 
 
 ## Reach me
 
-- **Email:** ganeshrathnam2404@gmail.com
+- **Email:** lalgudishivakumar@myjobemails.com
 - **LinkedIn:** [linkedin.com/in/lsganeshrathnam](https://linkedin.com/in/lsganeshrathnam)
 - **GitHub:** [github.com/lsganeshrathnam](https://github.com/lsganeshrathnam)
